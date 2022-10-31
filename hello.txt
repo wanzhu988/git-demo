@@ -16,3 +16,4 @@ hello wan! hello aa!
 hello wan! hello aa!
 hello wan! hello aa!mastertest
 hello wan! hello aa!hot-fix test
+textmerge
